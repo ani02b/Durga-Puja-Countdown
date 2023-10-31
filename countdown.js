@@ -1,4 +1,4 @@
-const countdownDate = new Date('October 20, 2023 00:00:00').getTime();
+const countdownDate = new Date('October 9, 2024 00:00:00').getTime();
 
 const updateCountdown = () => {
   const now = new Date().getTime();
